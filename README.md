@@ -52,6 +52,10 @@ Add these user-defined fields in the account's **Notes tab**:
 | `newRate` | ⭕ | `4.2` | New interest rate for rate changes (%) |
 | `newRateDate` | ⭕ | `2025-06-01` | Date when rate changes (YYYY-MM-DD) |
 
+Example Configuration:
+
+<img width="578" height="451" alt="Example configuration" src="https://github.com/user-attachments/assets/e6c1e2de-7935-4507-bc90-ec297202adee" />
+
 ### Step 3: Generate Transactions
 1. Right-click the account and select "Refresh Account"
 2. Extension generates complete payment history from start date to current date
@@ -118,6 +122,11 @@ Interest Rate Change
 From 3.5% to 4.0%
 Effective from this payment period
 ```
+Example transactions:
+
+<img width="578" height="451" alt="Example transactions" src="https://github.com/mscherbaum/Mortgage-MoneyMoney/blob/31533d21037cbef3437e476e28fb84938d806ec6/Screenshot%202025-08-19%20at%2020.45.59.png" />
+
+
 
 ## How It Works
 
