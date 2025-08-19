@@ -1,7 +1,7 @@
 # Mortgage-MoneyMoney
-MoneyMoney Mortgage Simulator - Create realistic mortgage loan accounts in MoneyMoney with configurable payment frequencies, variable interest rates, custom payment dates, and automatic transaction generation. Features accurate amortization calculations, split principal/interest transactions, and support for rate changes during the mortgage term.
+MoneyMoney Mortgage Account - Create realistic mortgage loan accounts in MoneyMoney with configurable payment frequencies, variable interest rates, custom payment dates, and automatic transaction generation. Features accurate amortization calculations, split principal/interest transactions, and support for rate changes during the mortgage term.
 
-# MoneyMoney Mortgage Simulator Extension
+# MoneyMoney Mortgage Account Extension
 
 A comprehensive mortgage simulation extension for [MoneyMoney](https://moneymoney-app.com) that creates realistic mortgage accounts with payment tracking, interest calculations, and rate change support.
 
@@ -18,7 +18,7 @@ A comprehensive mortgage simulation extension for [MoneyMoney](https://moneymone
 
 ## Installation
 
-1. Download `mortgages.lua` from this repository
+1. Download `MortgageAccount.lua` from this repository
 2. Copy to your MoneyMoney Extensions folder:
    ```
    ~/Library/Containers/com.moneymoney-app.retail/Data/Library/Application Support/MoneyMoney/Extensions/
@@ -31,7 +31,7 @@ A comprehensive mortgage simulation extension for [MoneyMoney](https://moneymone
 
 ### Step 1: Create Account
 1. In MoneyMoney, add a new account
-2. Select **"Mortgage Simulator"** as the service
+2. Select **"Mortgage Account"** as the service
 3. Enter your mortgage principal in the username field:
    - Format: `principal:245700` or just `245700`
    - Example: `principal:250000` for a €250,000 mortgage
